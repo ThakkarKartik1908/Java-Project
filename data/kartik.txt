@@ -1,0 +1,4 @@
+kartik,Avengers,2020,Action,4.5,Great Movie
+kartik,Hi papa,2024,Emotional,5.0,Excellent
+kartik,do dev,2025,action,5.0,great
+kartik,kt,2025,ACTION,4.5,nice
